@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.22.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  - enabled: 0
+    path: Assets/L6_GoogleCardboard/Scenes/L6_BalloonPopper.unity
+    guid: dc2b59be1a27f594ea1b880cd89069e4
+  - enabled: 0
+    path: Assets/L7_HTCVive/Scenes/HTCViveLab.unity
+    guid: 7ce99e9eca8f61349a8ed928f5dbb46c
+  - enabled: 0
+    path: Assets/L8_MetaQuest/Scenes/L8_MQ2_Scene.unity
+    guid: 3749eed395acb994c8cd5d8b8e573b34
+  - enabled: 0
+    path: Assets/Samples/Meta XR Interaction SDK OVR Samples/59.0.0/Example Scenes/HandGrabExamples.unity
+    guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  - enabled: 1
+    path: Assets/L9_MetaQuest/Scenes/L9_MQ2_BasicSetup.unity
+    guid: 6205948131ab9cd43ae719d825515d42
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 96249d5f946a3b94fb7042e08aaf5088, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3c12fe1993b3f764289c3a2d386debae, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ec5aa4c5a20208246b7a46974f056696, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 408805401d428e54199f4f6129069884, type: 2}
